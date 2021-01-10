@@ -17,3 +17,5 @@
 
 // style={{ color: "#617d98", fontSize: "0.75rem", marginTop: "0.25rem" }}
 // inline styling override css from external file
+
+// children property is not changed syntactically
