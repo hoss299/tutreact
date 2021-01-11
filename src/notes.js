@@ -23,3 +23,12 @@
 // React synthetic events:
 // attribute (camelCase), eventhandler
 //  example: onClick, onMouseOver
+
+// books.js is like a database
+// Book.js is a book component
+
+// with export const blabla
+// you should write the same name as  blabla and inside curly braces {}
+
+// with export default blabla
+// you can write whatever the name you want and without curly braces
