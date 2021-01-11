@@ -19,3 +19,7 @@
 // inline styling override css from external file
 
 // children property is not changed syntactically
+
+// React synthetic events:
+// attribute (camelCase), eventhandler
+//  example: onClick, onMouseOver
